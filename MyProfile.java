@@ -9,7 +9,7 @@ public class MyProfile {
 	System.out.println ("............................................."); 
 	System.out.println ("Name:Sharifah Hana Maisarah binti Syed Omar"); 
 	System.out.println ("Matric: 222635"); 
-	System.out.println ("State/Province: Selangor"); 
+	System.out.println ("State/Province: Selangor"); //which part?????
 	System.out.println ("Is this program your first choice?: Yes"); 
 	System.out.println ("Expectations from this course: To enjoy and learn valuable knowledge"); 
 }	
