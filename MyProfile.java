@@ -9,7 +9,8 @@ public class MyProfile {
 		System.out.println("**********************************************************************");//to print message
 		System.out.println("Name: Nur Farzana Alya binti Saharudin");//to print message
 		System.out.println("Matric: 224263");//to print message
-		System.out.println("State: Selangor");//to print message
+		System.out.println("State: Selangor");//to print message ...which part
+		
 		System.out.println("Is this program your first choice?: Yes it is");//to print message
 		System.out.println("Expectations from this course: Hoping that I will excel this course");//to print message
 	}
