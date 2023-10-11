@@ -1,17 +1,18 @@
-package Lab1;
-
+package LAB1;
+/*Name: Choo En Yi
+ Lab:1
+ Date:11/10/2023
+ */
 public class MyProfile {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("**********************************************************************");//to print message
-		System.out.println("*               >.<  Farzana's profile >.<                           *" );//to print message
-		System.out.println("**********************************************************************");//to print message
-		System.out.println("Name: Nur Farzana Alya binti Saharudin");//to print message
-		System.out.println("Matric: 224263");//to print message
-		System.out.println("State: Selangor");//to print message
-		System.out.println("Is this program your first choice?: Yes it is");//to print message
-		System.out.println("Expectations from this course: Hoping that I will excel this course");//to print message
+	public static void mean(String[]args) {
+		System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");// to print message
+		System.out.println("%%               My Profile                  %%");//to print message
+		System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");//to print message
+		System.out.println("Name: Choo En Yi");//to print message
+		System.out.println("Matric number:222333");//to print message
+		System.out.println("State/Province: Perak");//to print message
+		System.out.println("Is this program your first choice?: Sure!");//to print message
+		System.out.println("Expectation from this course: Hope I ace in this course and enjoy the journey!");//to print message
 	}
 
 }
